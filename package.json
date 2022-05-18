@@ -1,0 +1,23 @@
+{
+  "name": "22-uib-interactions-caption-this-slavyspasoff",
+  "version": "1.0.0",
+  "description": "Let's try to recreate the hover animation shown below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavyspasoff/30-wo-sass-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavyspasoff/30-wo-sass-02/issues"
+  },
+  "homepage": "https://github.com/slavyspasoff/30-wo-sass-02#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
